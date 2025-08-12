@@ -2,7 +2,8 @@
 <div id="top"></div>
 <div align="center">
     <img width="40%" alt="Welcome to my profile!" src="https://github.com/Sornrammuter/Sornrammuter/blob/main/E-SANSOFT.png?raw=true">
-    <img src="https://komarev.com/ghpvc/?username=Sornrammuter&style=flat-square&color=2ef847" alt="Profile Views"/>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=Sornrammuter&style=flat-square&color=16BAED" alt="Profile Views"/>
 </div>
 
 <!-- Dynamic Text -->
