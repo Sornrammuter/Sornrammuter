@@ -1,3 +1,10 @@
+<!-- Header Banner -->
+<div id="top"></div>
+<div align="center">
+    <img width="100%" alt="Welcome to my profile!" src="https://github.com/Sornrammuter/Sornrammuter/E-SANSOFT.png?raw=true">
+    <img src="https://komarev.com/ghpvc/?username=Sornrammuter&style=flat-square&color=2ef847" alt="Profile Views"/>
+</div>
+
 <!-- Dynamic Text -->
 <div align="center">
     <a href="https://git.io/typing-svg">
