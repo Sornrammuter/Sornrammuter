@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div id="top"></div>
 <div align="center">
-    <img width="100%" alt="Welcome to my profile!" src="https://github.com/Sornrammuter/Sornrammuter/blob/main/E-SANSOFT.png?raw=true">
+    <img width="50%" alt="Welcome to my profile!" src="https://github.com/Sornrammuter/Sornrammuter/blob/main/E-SANSOFT.png?raw=true">
     <img src="https://komarev.com/ghpvc/?username=Sornrammuter&style=flat-square&color=2ef847" alt="Profile Views"/>
 </div>
 
