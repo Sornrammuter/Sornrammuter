@@ -22,8 +22,8 @@
 
 <!-- GitHub Stats Section -->
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sornrammuter&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=2ef847&icon_color=2ef847&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sornrammuter&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=2ef847&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sornrammuter&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=16BAED&icon_color=2ef847&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sornrammuter&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=16BAED&bg_color=0d1117"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
