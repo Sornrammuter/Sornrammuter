@@ -8,10 +8,10 @@
 <!-- Dynamic Text -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=500&lines=I'm+>A+passionate+Full+Stack+Developer+from+Thailand;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2ef847&center=true&vCenter=true&width=500&lines=I'm+A+passionate+Full+Stack+Developer+from+Thailand;" alt="Typing SVG" />
     </a>
 </div>
-<h3 align="center"</h3>
+<h3 align="center"></h3>
 
 <!-- GitHub Stats Section -->
 <div align="center">
