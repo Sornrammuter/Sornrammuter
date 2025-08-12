@@ -9,7 +9,7 @@
 <!-- Dynamic Text -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&width=500&lines=I'm+Hi 👋, I'm Adminrammuter;Delphi+Expert;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&width=500&lines=I'm+Hi I'm Adminrammuter;Delphi+Expert;" alt="Typing SVG" />
     </a>
 </div>
 
