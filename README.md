@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adminrammuter</h1>
 <h3 align="center">A passionate Full Stack Developer from Thailand</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <!-- Dynamic Text -->
 <div align="center">
     <a href="https://git.io/typing-svg">
